@@ -5,5 +5,5 @@ httplib2==0.20.4
 PyYAML==6.0
 urllib3==2.6.3
 protobuf==6.33.5
-certifi==2024.7.4
+certifi==2026.10.19
 setuptools==78.1.1
